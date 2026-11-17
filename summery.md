@@ -37,22 +37,25 @@ When we run the program, here is step-by-step what input we give and what output
 * **Input:** The program asks for a choice. I type `1` and press Enter.
 * **Output:** It groups the patients and prints out exactly how many patients are in Cardiology, Ortho, etc., and shows the breakdown of Male and Female patients.
 
-![Option 1 Screenshot](1.png)
+![Option 1 Screenshot]<img width="608" height="346" alt="option1_screenshot (1)" src="https://github.com/user-attachments/assets/9fffb7e2-22da-45b8-8781-d15428c1fe32" />
+
 
 ### Option 2: Length of Stay
 * **Input:** I type `2` and press Enter.
 * **Output:** It prints every Patient ID, shows exactly how many days they stayed in the hospital, and calculates the overall average stay for everyone.
 
-![Option 2 Screenshot](2.png)
+![Option 2 Screenshot]<img width="613" height="335" alt="option2_screenshot" src="https://github.com/user-attachments/assets/9cf5ced8-7198-4338-8832-52fceabfbeda" />
+
 
 ### Option 3: Stay and Age Groups (Chart)
 * **Input:** I type `3` and press Enter.
 * **Output:** It counts how many patients fall into the age groups 0-40, 41-60, and 61+. Then, a separate window pops up showing a Matplotlib bar graph of these ages.
 
-![Option 3 Screenshot](3.png)
+![Option 3 Screenshot]<img width="608" height="342" alt="option3_screenshot" src="https://github.com/user-attachments/assets/add5ab79-480d-41c1-a516-a439164362fd" />
+
 
 ### Option 4: Exit Program
 * **Input:** I type `4` and press Enter.
 * **Output:** The program prints "Exiting..." and safely closes the application.
 
-![Option 4 Screenshot](4.png)
+![Option 4 Screenshot]<img width="608" height="341" alt="option4_screenshot" src="https://github.com/user-attachments/assets/ba5c1ac1-7aec-4207-a539-74e376a957ad" />
